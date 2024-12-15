@@ -1,0 +1,66 @@
+[
+  {
+    "message": "Misslyckad leverans från instabox , uppdatera din address här",
+    "output": "Bluff"
+  },
+  {
+    "message": "Glöm inte att skicka din ansökan senaste imorgon kl 13.59",
+    "output": "Bluff"
+  },
+  {
+    "message": "Misstänkt aktivitet på ditt konto, logga in",
+    "output": "Bluff"
+  },
+  {
+    "message": "2020 är din verifieringskod från Ica",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Problem med din betalningsinformation",
+    "output": "Bluff"
+  },
+  {
+    "message": "Hej mamma kan du ringa mig när du har tid?",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Erbjudande om ett kreditkort med låg ränta",
+    "output": "Bluff"
+  },
+  {
+    "message": "Vi vill påminna dig på din bokade tid imorgon ",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Gratis eller nedsatt pris på ditt nästa köp",
+    "output": "Bluff"
+  },
+  {
+    "message": "skatteåterbäring som du behöver hävda",
+    "output": "Bluff"
+  },
+  {
+    "message": "Ett packet är på väg till dig",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Du är utelåst från ditt konto och måste verifiera personliga uppgifter",
+    "output": "Bluff"
+  },
+  {
+    "message": "Tack för din beställning. ",
+    "output": "Vanlig"
+  },
+  {
+    "message": "En familjemedlem behöver brådskande hjälp",
+    "output": "Bluff"
+  },
+  {
+    "message": "Hej Erik, tack för att ditt intresse för vår hemsida vi kommer att kontakta dig",
+    "output": "Bluff"
+  },
+  {
+    "message": "Vänligt meddelande för att bekräfta ett nytt köp",
+    "output": "Bluff"
+  }
+]

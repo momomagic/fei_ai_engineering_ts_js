@@ -1,0 +1,66 @@
+[
+  {
+    "message": "We can not deliver to instabox , update your address here ",
+    "output": "Bluff"
+  },
+  {
+    "message": "Dont forget to send your application tomorrow 13:29",
+    "output": "Bluff"
+  },
+  {
+    "message": "Your bank account has a malicious activity log in here ",
+    "output": "Bluff"
+  },
+  {
+    "message": "2020 is your verification code ",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Problem with your payment , pay now here",
+    "output": "Bluff"
+  },
+  {
+    "message": "Hej mamma kan du ringa mig när du har tid?",
+    "output": "Vanlig"
+  },
+  {
+    "message": "We have great offer for you",
+    "output": "Bluff"
+  },
+  {
+    "message": "We kindly remind you of your time tomorrow ",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Free or half price on your next shop here",
+    "output": "Bluff"
+  },
+  {
+    "message": "Return of your taxes could be increased here ",
+    "output": "Bluff"
+  },
+  {
+    "message": "We have a delivery registered to you",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Your bank account is closed , you must verify your account here",
+    "output": "Bluff"
+  },
+  {
+    "message": "Thank you for your order ",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Your son needs your help, send him money now",
+    "output": "Bluff"
+  },
+  {
+    "message": "Hi Erik, thanks for your interest we will contact you soon  ",
+    "output": "Vanlig"
+  },
+  {
+    "message": "Your order will not be confirmed until you click here",
+    "output": "Bluff"
+  }
+]

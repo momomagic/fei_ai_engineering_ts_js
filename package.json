@@ -1,0 +1,13 @@
+{
+  "name": "phising-analysis",
+  "version": "1.0.0",
+  "description": "bedrägeri försök identfiering med hjälp avTensorFlow.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "@tensorflow/tfjs": "latest",
+    "@tensorflow/tfjs-node": "latest",
+    "@tensorflow-models/toxicity": "latest"
+  }
+}
