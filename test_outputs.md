@@ -77,3 +77,43 @@ Tensor
 ```
 
 **The model was giving similar results for both positive and not positive messages**
+
+## Testing with spam dataset from kaggle
+
+```
+============================
+Hi, looks like you are running TensorFlow.js in Node.js. To speed things up dramatically, install our node backend, visit https://github.com/tensorflow/tfjs-node for more details. 
+============================
+Orthogonal initializer is being called on a matrix with more than 2000 (4096) elements: Slowness may result.
+EN_SPAM training began
+EN_SPAM => Epoch 1 started
+EN_SPAM => Epoch 1: Loss : 0.6123257279396057
+EN_SPAM => Epoch 2 started
+EN_SPAM => Epoch 2: Loss : 0.3126852810382843
+EN_SPAM => Epoch 3 started
+EN_SPAM => Epoch 3: Loss : 0.18448084592819214
+EN_SPAM => Epoch 4 started
+EN_SPAM => Epoch 4: Loss : 0.12555763125419617
+EN_SPAM => Epoch 5 started
+EN_SPAM => Epoch 5: Loss : 0.09162206202745438
+EN_SPAM => Epoch 6 started
+EN_SPAM => Epoch 6: Loss : 0.06843119859695435
+EN_SPAM => Epoch 7 started
+EN_SPAM => Epoch 7: Loss : 0.05018474534153938
+EN_SPAM => Epoch 8 started
+EN_SPAM => Epoch 8: Loss : 0.03572377935051918
+EN_SPAM => Epoch 9 started
+EN_SPAM => Epoch 9: Loss : 0.022890282794833183
+EN_SPAM => Epoch 10 started
+EN_SPAM => Epoch 10: Loss : 0.014443684369325638
+Model training complete!
+Evaluation for model EN_SIMPLE, results: Tensor
+    0.10902348160743713,Tensor
+    0.9652067422866821
+Prediction of Your account is closed is done according to EN_SIMPLE model
+Tensor
+     [[0.7473351],]
+Prediction of Welcome to AI is done according to EN_SIMPLE model
+Tensor
+     [[0.2986287],]
+```

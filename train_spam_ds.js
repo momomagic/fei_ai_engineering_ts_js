@@ -1,6 +1,6 @@
 //Handling csv spam file
 const lstm_helper = require('./lstm_helper');
-const spamData = require('./spam.json');
+const spamData = require('./spam_mini.json');
 
 
 //Load both tensorflow and toxicity model
